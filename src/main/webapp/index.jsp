@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ShopEasy - Your One-Stop Online Store</title>
+  <title>ShopEasy - This is One-Stop Online Store</title>
   
   <!-- Font Awesome -->
   <link
