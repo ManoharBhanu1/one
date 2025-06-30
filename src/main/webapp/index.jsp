@@ -197,7 +197,7 @@
     <div class="footer-content">
       <div class="footer-section">
         <h3>About ShopEasy</h3>
-        <p>Your one-stop destination for all your shopping needs. Quality products at affordable prices.</p>
+        <p>This is Your one-stop destination for all your shopping needs. Quality products at affordable prices.</p>
       </div>
       <div class="footer-section">
         <h3>Quick Links</h3>
